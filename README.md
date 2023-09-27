@@ -1,4 +1,4 @@
-##React Queue Challenge
+## React Queue Challenge
 
 1- Create an interface where a user can add a number of items and checkout
 
