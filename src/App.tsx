@@ -1,12 +1,6 @@
 import React, { useEffect, useState } from "react";
 import "./App.css";
 
-type userType = {};
-
-interface QueueItem {
-  items: number | undefined; // Define the type of items here
-}
-
 function App() {
   const [itemsInPersonCart, setItemsInPersonCart] = useState<number | string>(
     ""
